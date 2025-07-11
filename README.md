@@ -32,6 +32,6 @@ Here user will move to the **/home/test** directory from the current working dir
 - Syntax: **$rm filename**
 - Example: **$rm /home/test/test.py**
 
-- ## $cat: Display file contents on terminal
+## $cat: Display file contents on terminal
 - Syntax: **$cat filename**
 - Example: **$cat /home/test/test.py**

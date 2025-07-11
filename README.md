@@ -24,6 +24,14 @@ Here user will move to the **/home/test** directory from the current working dir
 
 ## $cp: Copy files from one directory to another.
 
--Syntax: **$cp source_file_location destination_location_path
+- Syntax: **$cp source_file_location destination_location_path
 - Example: **$cp /home/test/file1.py   /home/Music/**
 - Here **/home/test/file1.py** is source file name and **/home/Music/** destination directory path
+
+## $rm: Delete files
+- Syntax: **$rm filename**
+- Example: **$rm /home/test/test.py**
+
+- ## $cat: Display file contents on terminal
+- Syntax: **$cat filename**
+- Example: **$cat /home/test/test.py**

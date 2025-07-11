@@ -35,3 +35,7 @@ Here user will move to the **/home/test** directory from the current working dir
 ## $cat: Display file contents on terminal
 - Syntax: **$cat filename**
 - Example: **$cat /home/test/test.py**
+
+## $rmdir: Remove the directory
+- Syntax: **$rmdir directory_name**
+- Example: **$rmdir /home/test/**

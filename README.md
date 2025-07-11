@@ -36,6 +36,8 @@ Here user will move to the **/home/test** directory from the current working dir
 - Syntax: **$cat filename**
 - Example: **$cat /home/test/test.py**
 
-## $rmdir: Remove the directory
+## $rmdir: Remove the directory 
 - Syntax: **$rmdir directory_name**
 - Example: **$rmdir /home/test/**
+- NOTE: directory will be removed if it is empty, otheriwse use the option -f to forcefully delete it.
+- 

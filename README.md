@@ -25,5 +25,5 @@ Here user will move to the **/home/test** directory from the current working dir
 ## $cp: Copy files from one directory to another.
 
 -Syntax: **$cp source_location_path destination_location_path
-- Example: **$cp /home/test/file1.py /home/Music/**
+- Example: **$cp /home/test/file1.py   /home/Music/**
 - Here **/home/test/file1.py** is source file name and **/home/Music/** destination directory path

@@ -40,4 +40,13 @@ Here user will move to the **/home/test** directory from the current working dir
 - Syntax: **$rmdir directory_name**
 - Example: **$rmdir /home/test/**
 - NOTE: directory will be removed if it is empty, otheriwse use the option -f to forcefully delete it.
-- 
+
+## $mv: Rename the files/directories 
+- Syntax for files: **$mv source filename destination filename**
+- Example: **$mv /home/test/file1.txt file2.txt**
+- Syntax for directories: **$mv source directory destination direcroty**
+- Example: **$mv /home/test test2**         
+
+## $clear: Clears the terminal screen
+- Syntax: **$clear**
+- Example: **$clear**
